@@ -1,1 +1,1 @@
- This program does a case insensitive comparison between  two strings that are user input. The program converts both strings to lowercase before comparison and then out puts with string is larger or if both are equal.
+This program does a case insensitive comparison between  two strings that are user input. The program converts both strings to lowercase before comparison and then out puts with string is larger or if both are equal.
